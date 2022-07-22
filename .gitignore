@@ -1,0 +1,7 @@
+*.test
+*.out
+.idea
+.DS_Store
+vendor/
+log
+
